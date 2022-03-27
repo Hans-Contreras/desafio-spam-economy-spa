@@ -1,0 +1,11 @@
+Correos: desafio.test.2022@gmail.com
+                            Asunto: HOLA - indicadores
+                            Mensaje: 
+                            
+                
+                 Hola. Los indicadores económicos de hoy son los siguientes:
+                 <p>*El valor del dólar al día de hoy es $ 789.87 pesos</p>
+                 <p>*El valor del euro al día de hoy es $ 868.18 pesos</p>
+                 <p>*El valor de la uf al día de hoy es $ 31715.48 pesos</p>
+                 <p>*El valor de la utm al día de hoy $ 55537 pesos</p>
+                 

@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "nodemailer": "^6.7.3",
+    "nodemon": "^2.0.15",
+    "uuidv4": "^6.2.13"
+  },
+  "name": "desafio-spam-economy-spa",
+  "version": "1.0.0",
+  "description": "Desafio Spam Economy SPA",
+  "main": "index.js",
+  "scripts": {
+    "test": "All your bases now belong to us"
+  },
+  "author": "Hans Contreras",
+  "license": "ISC"
+}
